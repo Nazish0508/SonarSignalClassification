@@ -30,4 +30,4 @@ This project implements a classification model to distinguish between sonar sign
 
 ## Dataset
 
-The dataset contains sonar signals with features representing different frequency bands, used to classify whether the signal was reflected from a mine or a rock. 
+The dataset contains sonar signals with features representing different frequency bands, used to classify whether the signal was reflected from a mine or a rock.
